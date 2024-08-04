@@ -1,40 +1,50 @@
 <html>
+
 **Repository in GitHub**
 <hr>
 
 **Table of Contents**
-- [Description](#des)
+- [Description](#Des)
 - [Installation Instructions](#II)
-- [Usage](#usage)
-- [Contributing](#contri)
-- [License](#lice)
+- [Usage](#Usage)
+- [Contributing](#Contri)
+- [License](#Lic)
 
-##:des:*Description**
-A repository contains all of your code, your files, and each file's revision history.
-You can discuss and manage your work within the repository.
-A repository is the most basic element of GitHub.
-It's a place where you can store your code, your files, and each file's revision history.
-Repositories can have multiple collaborators and can be either public or private.
+## **Description**
+This repository contains all of your code, your files, and each file's revision history.
+You can write and edit all your work inside the file. Repositories can be viewed by public or in private setting.
 
 To create a new repository, go to https://github.com/new. For instructions, see "Quickstart for repositories."
 
-##:II:**Installation Instructions**
+## **Installation Instructions**
+
+*Clone the repository*
 ````
-Clone the repository
+1. On your files, select a repository you want to clone.
+
+2. Navigate to the main page of the repository.
+
+3. Above the list, click clone on your local Github desktop.
+
+4. Open Github desktop.
+
+5. Change the current working directory to the location where you want the cloned directory.
 ````
+*Install dependencies*
 ````
-Install dependencies
+1.
 ````
+*Run the project locally*
 ````
-Run the project locally
+3.
 ````
 
-##:usage:**Usage:**
+## **Usage**
 Describe how to start the React application.
 
-##:contri:**Contributing:**
+## **Contributing**
 Outline guidelines for contributing to the repository.
 
-##:lic:**License:**
+## **License**
 Include a section for the license (you can use a placeholder if the actual license is not specified).
 </html>
