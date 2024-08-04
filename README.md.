@@ -57,10 +57,9 @@ To create a new repository, go to https://github.com/new. For instructions, see 
 
 ### **Usage**
 On starting a react application, you must first activate nmp command and install the git on any available website.
-git init
 
 ### **Contributing**
 Outline guidelines for contributing to the repository.
 
 ### **License**
-Include a section for the license (you can use a placeholder if the actual license is not specified).
+This test run is licensed under the GNU General Public License (GPL).
